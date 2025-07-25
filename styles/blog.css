@@ -177,5 +177,58 @@ text-align: left;
   text-align: center;
 }
 
+.fourth-part {
+  width: 1140px;
+  height: 342px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+}
+
+.review-head {
+  color: rgb(37, 36, 50);
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 49px;
+  text-align: center;
+  width: 1140px;
+  height: 49px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 137px 141px 149px 50px;
+  gap: 50px;
+}
+.fourth-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+  width: 1140px;
+  height: 243px;
+  margin: 137px 151px;
+}
+
+.avter {
+  width: 40px;
+  height: 40px;
+  margin: 0px 12px;
+}
+
+
+.rev {
+  width: 318.67px;
+  height: 46px;
+  display: flex;
+  gap: 12px;
+  margin: 24px 0px;
+}
+
+.dt {
+  margin-top: 4px;
+}
+
 
 
