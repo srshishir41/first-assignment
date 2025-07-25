@@ -126,6 +126,56 @@ text-align: left;
 
 }
 
+.activity-head {
+  color: rgb(37, 36, 50);
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center;
+}
+.activity-head {
+  color: rgb(37, 36, 50);
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.third-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 158px;
+  padding: 50px 80px;
+}
+
+.act-style {
+  color: rgb(78, 71, 255);
+  font-size: 80px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0px 0px;
+}
+
+.third-part {
+  border-radius: 24px;
+  background: rgba(78, 71, 255, 0.1);
+  width: 995px;
+  height: 206px;
+  gap: 10;
+  padding: 50px 80px 50px 80px;
+  margin-left: 141px;
+  margin-right: 159px;
+ 
+  height: 306px;
+
+}
+
+.comment {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+}
 
 
 
